@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    font-family: Helvetica, Arial;
+    text-shadow: 0 2px 1px #79a06d, 
+      -1px 3px 1px #82ad75, 
+      -2px 5px 1px #8ebf80;
+    font-size: 3rem;
+}
+
+a {
+  text-decoration: none;
+}

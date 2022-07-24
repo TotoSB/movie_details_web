@@ -1,0 +1,9 @@
+.searchContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.searchInput {
+    color: #000;
+    height: 14px;
+}
